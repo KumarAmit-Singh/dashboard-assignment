@@ -61,9 +61,6 @@ const Sidebar = ({
       >
         <div className="py-8 px-1 mb-4 border-b">
           <div className="flex items-center gap-3">
-            <div className="w-8 h-8 bg-teal-400 rounded-lg flex items-center justify-center shadow-lg shadow-teal-100">
-              <div className="w-4 h-4 border-2 border-white rounded-sm rotate-45" />
-            </div>
             <h1 className="font-bold text-[12px] tracking-[2px] text-gray-800 uppercase">
               Purity UI Dashboard
             </h1>

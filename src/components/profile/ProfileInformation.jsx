@@ -20,7 +20,7 @@ const ProfileInformation = ({ info, user }) => {
       </div>
 
       <p className="text-[14px] text-gray-500 mb-4 pb-4 leading-relaxed font-normal border-b border-gray-100">
-        {`Hi, I'm ${info.fullName} Decisions: If you can’t decide, the answer is no. If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality).`}
+        {`Hi, I'm ${user.name} Decisions: If you can’t decide, the answer is no. If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality).`}
       </p>
 
       <div className="space-y-5">

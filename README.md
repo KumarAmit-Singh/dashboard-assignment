@@ -145,5 +145,5 @@ The design follows a modern, clean aesthetic with:
 
 - No backend integration required
 - All interactive elements are functional with alert/console log responses
-- Images are sourced from Pexels for demonstration purposes
+- Images are sourced from private websites for demonstration purposes
 - The application uses a simple state-based routing system
